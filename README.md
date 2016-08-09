@@ -1,6 +1,6 @@
 # Flot-Spider
 
-This is a Radar / Spider chart plugin for jQuery [Flot](http://www.flotcharts.org) library.
+This is a polar chart plugin for jQuery [Flot](http://www.flotcharts.org) library.
 
 # Options
 
