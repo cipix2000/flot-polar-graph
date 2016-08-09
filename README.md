@@ -1,4 +1,4 @@
-# Flot-Spider
+# plot-polar-graph
 
 This is a polar chart plugin for jQuery [Flot](http://www.flotcharts.org) library.
 
